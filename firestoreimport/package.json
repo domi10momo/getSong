@@ -1,0 +1,15 @@
+{
+  "name": "firestoreimport",
+  "version": "1.0.0",
+  "description": "csv import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.9.0",
+    "firebase-admin": "^8.11.0"
+  }
+}
