@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 baseUrl = 'http://j-lyric.net'
-artistUrl = '/artist/a056877'
+artistUrl = '/artist/a0555ea'
 
 def getHtml(url):
   return urllib.request.urlopen(url).read()
